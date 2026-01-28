@@ -1,0 +1,4 @@
+anthropic
+keyboard
+pyautogui
+python-dotenv

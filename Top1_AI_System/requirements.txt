@@ -1,0 +1,15 @@
+crewAI
+configops
+langchain_community
+torch
+transformers
+pillow
+mem0ai
+haystack-ai
+fastapi
+uvicorn
+duckduckgo-search
+html2text
+beautifulsoup4
+# Note: Moondream and NExT-GPT specific deps would actally be huge, 
+# for this prototype we assume they are installed or we wrap them loosely.
